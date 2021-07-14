@@ -10,8 +10,11 @@ To play, post the answer to the question in ##llamas along with a number between
 - 07/13/2021 https://vocaroo.com/1nY4xO3Khzxq
     - What are your thoughts and beliefs on the subject of religion? 
 - 07/12/2021 https://vocaroo.com/1jqkNJTQSsyZ
-    - Who is your favorite historical figure? (Number: 67, Winner: kPa, Answer: "Isaac Newton")
+    - Who is your favorite historical figure? 
+        - (Number: 67, Winner: kPa, Answer: "Isaac Newton")
 - 07/10/2021 https://vocaroo.com/194Y9jRYhZrf
-    - Do you keep up with sports? If so, what kind? If not, why not? (Number: 141, Winner: BitShack, Answer: "doing street dirt jumper riding is good sport")
+    - Do you keep up with sports? If so, what kind? If not, why not? 
+        - (Number: 141, Winner: BitShack, Answer: "doing street dirt jumper riding is good sport")
 - 07/08/2021 https://vocaroo.com/1j6EYkzvtY2r
-    - What is your favorite operating system? (Number: 121, Winner: anotheryou, Answer: templeOS)
+    - What is your favorite operating system? 
+        - (Number: 121, Winner: anotheryou, Answer: templeOS)
