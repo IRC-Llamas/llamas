@@ -7,8 +7,11 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 07/14/2021 https://vocaroo.com/1is7YSy7DrM9
+    - What is your favorite hobby or pastime?
 - 07/13/2021 https://vocaroo.com/1nY4xO3Khzxq
     - What are your thoughts and beliefs on the subject of religion? 
+        - (Number: 75, Winner: anotheryou, Answer: "believe what you want, just don't impose it on other please")
 - 07/12/2021 https://vocaroo.com/1jqkNJTQSsyZ
     - Who is your favorite historical figure? 
         - (Number: 67, Winner: kPa, Answer: "Isaac Newton")
