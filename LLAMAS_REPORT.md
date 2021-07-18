@@ -7,8 +7,11 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 07/18/2021 https://vocaroo.com/1eX9YfC1HZxl
+    - What are you most grateful for in your life?
 - 07/14/2021 https://vocaroo.com/1is7YSy7DrM9
     - What is your favorite hobby or pastime?
+        - (Number: 128, Winner: wodencafe, Answer: "lounging around and relaxing")
 - 07/13/2021 https://vocaroo.com/1nY4xO3Khzxq
     - What are your thoughts and beliefs on the subject of religion? 
         - (Number: 75, Winner: anotheryou, Answer: "believe what you want, just don't impose it on other please")
