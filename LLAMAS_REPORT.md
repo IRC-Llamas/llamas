@@ -1,7 +1,8 @@
 # The Llamas Report
 The Llamas Report is a (semi) daily, short news report, providing interesting news and information from around the globe.
 
-There is also a daily question, and a random number between 0 and 200, determined by virtual pocket change.
+There is also a daily question, and a random number between 0 and 200,
+determined by [virtual pocket change](https://github.com/wodencafe/PocketChange).
 The winner gets their answer to the question read on The Llamas Report.
 
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
