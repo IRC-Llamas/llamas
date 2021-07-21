@@ -8,6 +8,8 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 07/21/2021 https://vocaroo.com/1kVZ6pAAubwf
+    - If you could share a thought or a lesson with the rest of the world, what would it be? (Continued)
 - 07/20/2021 https://vocaroo.com/1o4epvvm856A
     - If you could share a thought or a lesson with the rest of the world, what would it be?
 - 07/18/2021 https://vocaroo.com/1eX9YfC1HZxl
