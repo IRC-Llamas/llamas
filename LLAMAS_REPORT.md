@@ -8,6 +8,7 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 07/27/2021 https://vocaroo.com/18JLT75P43KJ (Covid Special Announcement)
 - 07/23/2021 https://vocaroo.com/1eMaYFuzj2hu
     - Will humans reach Mars by 2050?
 - 07/22/2021 https://vocaroo.com/11Xjpl3jeGkx
