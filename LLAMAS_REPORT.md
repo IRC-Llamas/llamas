@@ -8,9 +8,12 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 08/02/2021 https://vocaroo.com/1oNj0IrukteQ
+    - What are you most looking forward to when the pandemic is over?
 - 07/27/2021 https://vocaroo.com/18JLT75P43KJ (Covid Special Announcement)
 - 07/23/2021 https://vocaroo.com/1eMaYFuzj2hu
     - Will humans reach Mars by 2050?
+        - (Number: 12, Winner: blkshp, Answer: "Yes, The Indefatigable movement in the progress in our technological capability suggests that we will most certainly meet that deadline.")
 - 07/22/2021 https://vocaroo.com/11Xjpl3jeGkx
     - Is traveling to space something you would like to do in your lifetime? If so, why? If not, why not?
         - (Number: 133, Winner: fChanX, Answer: "I would not want to travel to space. I belong here on Earth. I would get incredibly homesick, and I have no reason to go to space. It has nothing to offer me.")
