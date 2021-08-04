@@ -8,8 +8,11 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 08/04/2021 https://vocaroo.com/1n60MuqOiIzA
+    - Who do you think is the most important or influential person in the world today?
 - 08/03/2021 https://vocaroo.com/1gRZlddTBt4B
     - What are you most looking forward to when the pandemic is over? (Continued)
+        - (Number: 72, Winner: anotheryou, Answer: "concerts and no more awkwardness about personal risk calculations.")
 - 08/02/2021 https://vocaroo.com/1oNj0IrukteQ
     - What are you most looking forward to when the pandemic is over?
 - 07/27/2021 https://vocaroo.com/18JLT75P43KJ (Covid Special Announcement)
