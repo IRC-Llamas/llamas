@@ -8,6 +8,8 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 08/03/2021 https://vocaroo.com/1gRZlddTBt4B
+    - What are you most looking forward to when the pandemic is over? (Continued)
 - 08/02/2021 https://vocaroo.com/1oNj0IrukteQ
     - What are you most looking forward to when the pandemic is over?
 - 07/27/2021 https://vocaroo.com/18JLT75P43KJ (Covid Special Announcement)
