@@ -8,6 +8,8 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 08/22/2021 https://vocaroo.com/14yYcUxlSPEs
+    - Who do you think is the most important or influential person in the world today? (Continued)
 - 08/04/2021 https://vocaroo.com/1n60MuqOiIzA
     - Who do you think is the most important or influential person in the world today?
 - 08/03/2021 https://vocaroo.com/1gRZlddTBt4B
