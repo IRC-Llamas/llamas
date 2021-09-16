@@ -109,7 +109,7 @@ in `##llamas-ops` instead of PM.
 We ask that people not idle there, and may kick idlers.
 
 If op attention is required immediately (e.g. due to active spamming),
-you can say `!ops` in `##llamas`.
+you can say `+ops` in `##llamas`.
 
 ### Non-Defenses
 
