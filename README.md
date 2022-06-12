@@ -61,6 +61,7 @@ This list is not exhaustive; if a behavior is not listed here, that does not mea
 	* Harming their friends, family, and/or pets.
 	* Attacking their livelihood (e.g. trying to get someone removed from their job or volunteer positions).
 	* Blackmail.
+* Habitually using `##llamas` to promote political ideas without participating in any following critical examination of those ideas.
 * Bringing personal drama or drama from other channels to `##llamas`.
 
 ### Examples of Permissible Behavior
