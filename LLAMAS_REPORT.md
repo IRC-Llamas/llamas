@@ -8,6 +8,10 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 07-21-2022 https://vocaroo.com/134FYRjkgACw
+    - The State of The World 
+- 04-12-2022 https://vocaroo.com/13GXZvuwEOcm 
+    - [TODO: Add Subject]
 - 11/26/2021 https://vocaroo.com/1boE8omxLtCN
     - Black Friday Edition Special
 - 08/22/2021 https://vocaroo.com/14yYcUxlSPEs
