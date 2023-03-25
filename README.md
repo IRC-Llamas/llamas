@@ -112,6 +112,8 @@ We ask that people not idle there, and may kick idlers.
 If op attention is required immediately (e.g. due to active spamming),
 you can say `+ops` in `##llamas`.
 
+You can use `/msg ChanServ FLAGS ##llamas +o` to view a list of `##llamas` channel operators.
+
 ### Non-Defenses
 
 The following are not valid excuses or defenses for unwanted behavior:
