@@ -8,6 +8,10 @@ The winner gets their answer to the question read on The Llamas Report.
 To play, post the answer to the question in ##llamas along with a number between 0 and 200.
 
 ## Archive
+- 05-03-2023 https://vocaroo.com/1owE5PNrWHYc
+    - Russia and Ukraine, Nukes and Drones, News and Writers
+- 05-02-2023 https://vocaroo.com/17wdkn8sgrZA
+    - Banks and Bank Accessories
 - 07-21-2022 https://vocaroo.com/134FYRjkgACw
     - The State of The World 
 - 04-12-2022 https://vocaroo.com/13GXZvuwEOcm 
