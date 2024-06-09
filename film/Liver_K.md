@@ -1,0 +1,2 @@
+- [The Iron Giant!](https://www.imdb.com/title/tt0129167/) (so far, besides myself, only kPa has expressed an interest in this)
+- [The Hunt for Red October](https://www.imdb.com/title/tt0099810/)
