@@ -1,2 +1,3 @@
+- 06/10/2024: [Fear (1996)](https://www.imdb.com/title/tt0116287/)
 - 06/09/2024: [The Grudge (2004)](https://www.imdb.com/title/tt0391198/)
 - 06/08/2024: [The Time Machine (2002)](https://www.imdb.com/title/tt0268695)
