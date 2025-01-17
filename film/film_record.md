@@ -1,3 +1,5 @@
+- 01-16-2025 Seven Psychopaths (2012)
+- 01/12/2025 The man in the white van (2024)
 - 01/10/2025: [The Mummy (1999)](https://imdb.com/title/tt0120616/)
 - 06/10/2024: [Fear (1996)](https://www.imdb.com/title/tt0116287/)
 - 06/09/2024: [The Grudge (2004)](https://www.imdb.com/title/tt0391198/)
