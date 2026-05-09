@@ -63,6 +63,7 @@ This list is not exhaustive; if a behavior is not listed here, that does not mea
 	* Blackmail.
 * Habitually using `##llamas` to promote political ideas without participating in any following critical examination of those ideas.
 * Bringing personal drama or drama from other channels to `##llamas`.
+* Displaying immaturity that would be unacceptable for adults even in an informal social setting.
 
 ### Examples of Permissible Behavior
 
@@ -71,6 +72,7 @@ This list is not exhaustive; if a behavior is not listed here, that does not mea
 * Discussing contentious topics such as politics, economics, social justice, the news, new or controversial science, etc.
 	* An exception is made if someone is participating in order to be intentionally offensive to others.
 * Posting some forms of non-sexual but NSFW content, so long as it's appropriately tagged or age-gated.
+* Some silliness (within reason) is welcome, but brainrot is not.
 
 ## Bot Policy
 
