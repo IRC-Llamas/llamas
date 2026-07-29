@@ -69,7 +69,7 @@ This list is not exhaustive; if a behavior is not listed here, that does not mea
 
 * Profanity.
 * Harmless silliness being someone's only contribution to the channel.
-* Discussing contentious topics such as politics, economics, social justice, the news, new or controversial science, etc.
+* Respectfully discussing contentious topics such as politics, economics, social justice, the news, new or controversial science, etc.
 	* An exception is made if someone is participating in order to be intentionally offensive to others.
 * Posting some forms of non-sexual but NSFW content, so long as it's appropriately tagged or age-gated.
 * Some silliness (within reason) is welcome, but brainrot is not.
